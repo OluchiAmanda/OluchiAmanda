@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Oluchi Ejidike</h1>
-<h3 align="center">A sweet and passionate frontend developer from Nigeria</h3>
+<h3 align="center">A sweet and passionate backend developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **Back-end development using Node.js**
 
